@@ -1,0 +1,84 @@
+# GiCat — локальные и служебные файлы
+exports/
+.gicat/*.local.json
+*.tmp
+Thumbs.db
+.DS_Store
+~$*
+
+# --- GiCat strict sync rules ---
+# GiCat local CAT state
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.db-wal
+*.db-shm
+gicat.db
+/.gicat/sync-manifest.json
+/.gicat/backups/
+/.gicat/*.local.json
+# Build artifacts and compiled scripts
+*.exe
+*.dll
+*.pyd
+*.so
+*.dylib
+*.bin
+*.bf
+*.pyc
+*.pyo
+__pycache__/
+/build/
+/dist/
+# Fonts
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.eot
+*.fnt
+*.fon
+# Heavy assets and archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.bz2
+*.xz
+*.pak
+*.bundle
+*.psd
+*.ai
+*.blend
+*.fbx
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.dds
+*.tga
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+# Binary source documents are never staged by GiCat's sync engine.
+# Uncomment the next two lines if they should stay out of the repository.
+# *.docx
+# *.pdf
+# Temporary files
+*.temp
+*.bak
+*.swp
+*~
+*.log
+desktop.ini

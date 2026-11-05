@@ -1,0 +1,4 @@
+# Keep GiCat-managed translation text canonical (LF) across platforms.
+/translations/** text eol=lf
+/.gicat/project.json text eol=lf
+/glossary.tsv text eol=lf
