@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:gicat="https://gicat.app/ns/1.0" version="1.2">
+  <file source-language="en" target-language="ru" original="gicatest.txt" datatype="plaintext">
+    <body>
+      <trans-unit id="seg-0001" gicat:status="translated">
+        <source>пук-пук</source>
+        <target state="translated">пёр-пёр
+</target>
+      </trans-unit>
+      <trans-unit id="seg-0002" gicat:status="translated">
+        <source>тест гикада</source>
+        <target state="translated">нейрослоп</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
