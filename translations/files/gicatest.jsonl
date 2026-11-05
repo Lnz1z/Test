@@ -1,3 +1,3 @@
 {"type":"document","version":1,"name":"gicatest","original_name":"gicatest.txt","source_lang":"en","target_lang":"ru","segment_count":2}
-{"type":"segment","id":"seg-0001","position":1,"source":"пук-пук","target":"","status":"new"}
-{"type":"segment","id":"seg-0002","position":2,"source":"тест гикада","target":"","status":"new"}
+{"type":"segment","id":"seg-0001","position":1,"source":"пук-пук","target":"пёр-пёр\n","status":"translated"}
+{"type":"segment","id":"seg-0002","position":2,"source":"тест гикада","target":"нейрослоп","status":"translated"}
